@@ -33,6 +33,9 @@ gcc -Wall -g -std=gnu99  -o wheel wheel.o family.o reading.o
 Usage: wheel
 ```
 
+## Family and wordlist data structure
+![data structure](https://user-images.githubusercontent.com/25379724/53540528-eaa24100-3ae3-11e9-8c7d-f87b63a2f905.png)
+
 ## Examples
 ```
 $ ./wheel 
